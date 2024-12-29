@@ -1,3 +1,4 @@
-data
+data/*
 .vscode
 env
+!data/*.dvc
