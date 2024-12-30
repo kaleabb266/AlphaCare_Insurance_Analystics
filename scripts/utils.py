@@ -19,6 +19,7 @@ def summarize_data(df):
     print("\nSummary Statistics:")
     print(df.describe())
 
+
 # Missing Values Analysis
 def analyze_missing_values(df):
     """Check and visualize missing values."""
